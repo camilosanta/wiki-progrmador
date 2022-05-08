@@ -1,3 +1,7 @@
+body{
+    font-family: 'Akshar', sans-serif;
+    background-color: rgb(228, 240, 251);
+}
 .titulo{
     text-align: center;
     padding: 50px;
@@ -5,15 +9,25 @@
     color: white;
     margin-bottom:50px;
 }
+.parrafo1{
+    width: 945px;
+    margin-left:10px;
+    font-size: 25px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
 p{
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 2px;
 }
 .sub-titulos{
-    margin-top: 15px;
-    margin-left: 4px;
+    text-align: left;
   
+    margin-top: 50px;
+    margin-bottom:15px;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 .imagenes1{
     border:3px solid black;
@@ -23,4 +37,10 @@ p{
     margin-bottom: 25px;
     width: 350px;
     height: 250px;
+}
+.fondo0{
+    width: 945px;
+}
+.fondo1{
+    width: 945px;
 }
