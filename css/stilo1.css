@@ -8,6 +8,7 @@ body{
     background-color: black;
     color: white;
     margin-bottom:50px;
+    font-weight: bolder;
 }
 .parrafo1{
     width: 945px;
@@ -16,6 +17,11 @@ body{
     margin-right: 50px;
     margin-bottom: 50px;
 }
+.parrafo2{
+     margin-top: 15px;
+     width:850px;
+     margin-left: 25px;
+}
 p{
     margin-top: 5px;
     margin-bottom: 5px;
@@ -23,7 +29,7 @@ p{
 }
 .sub-titulos{
     text-align: left;
-  
+    font-weight: bolder;
     margin-top: 50px;
     margin-bottom:15px;
     font-size: 20px;
